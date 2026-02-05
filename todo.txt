@@ -1,0 +1,2 @@
+*  Afficher un champ text min max pour le random number
+* Ajouter des meilleurs styles
