@@ -1,4 +1,3 @@
-console.log("Hey");
 
 const randomNumberEl = document.querySelector("#random-number")
 
